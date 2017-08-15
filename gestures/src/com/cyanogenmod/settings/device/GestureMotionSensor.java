@@ -26,7 +26,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-import org.cyanogenmod.internal.util.FileUtils;
+import com.cyanogenmod.settings.device.FileUtils;
 
 public class GestureMotionSensor {
 
